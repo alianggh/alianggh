@@ -5,9 +5,7 @@
 
 https://t.me/aliangtgqun
 
-HOME
-
-https://www.aliang.ip-ddns.com/
+恭喜发财
 
 <!--
 **alianggh/alianggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
