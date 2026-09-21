@@ -1,5 +1,5 @@
 ### Hi 欢迎来到啊亮的GitHub 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alianggh)](https://github.com/alianggh)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aianggh&show_icons=true&theme=radical)
 
 啊亮TG群
 
