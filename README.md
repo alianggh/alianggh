@@ -1,5 +1,5 @@
 ### Hi 欢迎来到啊亮的GitHub 👋
-[![ALiang GitHub stats](https://github-readme-stats.vercel.app/api?username=alianggh)](https://github.com/alianggh)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alianggh)](https://git.io/streak-stats)
 
 啊亮TG群
 
