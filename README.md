@@ -1,9 +1,9 @@
 ### Hi 欢迎来到啊亮的GitHub 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alianggh)](https://git.io/streak-stats)
 
-啊亮TG群（https://t.me/aliangtgqun）
+🤖啊亮[TG群](https://t.me/aliangtgqun)，欢迎👏你
 
-https://t.me/aliangtgqun
+
 
 恭喜发财
 
